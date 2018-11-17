@@ -1,0 +1,1 @@
+This repository is for code regarding the Collect Data in a New Channel getting started example from the MathWorks using their public weather station channel 12397. 
