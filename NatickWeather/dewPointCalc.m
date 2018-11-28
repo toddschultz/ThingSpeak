@@ -3,7 +3,7 @@ readChId = 12397;
 writeChId = 629784;
 
 % API keys
-writeKey = 'X6Z6AW8KJUH8BOP1';
+writeKey = yourAPIKey;
 
 % Read the latest 20 points of temperature data with timestamps and humidity
 [temp,time] = thingSpeakRead(readChId,'Fields',4,'NumPoints',20);
